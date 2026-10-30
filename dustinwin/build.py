@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""DustinWin ruleset -> Loon 规则（复刻 Mihomo 在用的 15 套分流规则）"""
+"""DustinWin ruleset -> Loon 规则（复刻 Mihomo 在用的分流规则 + Spotify）"""
 import os, urllib.request, datetime
 
 BASE = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/"
 # 与用户 mihomo.yaml 里 RULE-SET 引用的一致（fakeip-filter 为 Mihomo FakeIP 专用，Loon 不需要）
+# 另加 spotify（对应 Loon 里禁用的 Spotify.lsr）
 RULES = ["ads", "youtube", "applications", "private", "microsoft-cn", "apple-cn",
          "google-cn", "games-cn", "ai", "networktest", "proxy", "cn",
-         "telegramip", "privateip", "cnip"]
+         "telegramip", "privateip", "cnip", "spotify"]
 OUTDIR = os.path.dirname(os.path.abspath(__file__))
 LOON_TYPES = {"DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "DOMAIN-WILDCARD",
               "IP-CIDR", "IP-CIDR6", "IP-ASN", "SRC-IP-CIDR", "SRC-IP-CIDR6"}
