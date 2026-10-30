@@ -1,6 +1,6 @@
 # NAME: DustinWin networktest
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/networktest.list
-# UPDATED: 2026-10-30 04:05 UTC
+# UPDATED: 2026-10-30 04:44 UTC
 # TOTAL: 1937
 DOMAIN-SUFFIX,2ip.kamensky-lab.ru
 DOMAIN-SUFFIX,2ip.telecom24.link

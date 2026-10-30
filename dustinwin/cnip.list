@@ -1,6 +1,6 @@
 # NAME: DustinWin cnip
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.list
-# UPDATED: 2026-10-30 04:05 UTC
+# UPDATED: 2026-10-30 04:44 UTC
 # TOTAL: 9816
 IP-CIDR,1.0.1.0/24
 IP-CIDR,1.0.2.0/23
