@@ -1,6 +1,6 @@
 # NAME: AI platforms (v2fly category-ai-!cn + ACL4SSR AI)
 # SOURCE: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ai-!cn , https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AI.list
-# UPDATED: 2026-10-31 23:29 UTC
+# UPDATED: 2026-11-01 23:41 UTC
 # TOTAL: 227 (suffix 189 / domain 35 / keyword 3 / regexp skipped 1)
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.azure.com
