@@ -1,6 +1,6 @@
 # NAME: DustinWin apple-cn
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/apple-cn.list
-# UPDATED: 2026-10-31 23:38 UTC
+# UPDATED: 2026-11-01 23:49 UTC
 # TOTAL: 246
 DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,cdn-cn.apple-mapkit.com

@@ -1,6 +1,6 @@
 # NAME: DustinWin spotify
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/spotify.list
-# UPDATED: 2026-10-31 23:38 UTC
+# UPDATED: 2026-11-01 23:49 UTC
 # TOTAL: 29
 DOMAIN-SUFFIX,audio4-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,cdn-spotify-experiments.conductrics.com

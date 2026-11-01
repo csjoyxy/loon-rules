@@ -1,7 +1,7 @@
 # NAME: DustinWin cn
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
-# UPDATED: 2026-10-31 23:38 UTC
-# TOTAL: 109559
+# UPDATED: 2026-11-01 23:49 UTC
+# TOTAL: 109562
 DOMAIN-SUFFIX,api.blipsandchitz.me
 DOMAIN-SUFFIX,end-api.shallow.ink
 DOMAIN-SUFFIX,end.shallow.ink
@@ -17091,6 +17091,7 @@ DOMAIN-SUFFIX,busnc.com
 DOMAIN-SUFFIX,bustoprint.com
 DOMAIN-SUFFIX,bustruckexpo.com
 DOMAIN-SUFFIX,busuanzi.cc
+DOMAIN-SUFFIX,busyming.com
 DOMAIN-SUFFIX,busytrade.com
 DOMAIN-SUFFIX,but7.com
 DOMAIN-SUFFIX,butair.com
@@ -29097,6 +29098,7 @@ DOMAIN-SUFFIX,doubaninfo.com
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaoapps.com
 DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,doubaozhidao.com
 DOMAIN-SUFFIX,doubean.com
@@ -109290,6 +109292,7 @@ DOMAIN-SUFFIX,zylianto.com
 DOMAIN-SUFFIX,zymc1.com
 DOMAIN-SUFFIX,zymkcdn.com
 DOMAIN-SUFFIX,zymkshop.com
+DOMAIN-SUFFIX,zymls.com
 DOMAIN-SUFFIX,zyoffice.com
 DOMAIN-SUFFIX,zyoo.net
 DOMAIN-SUFFIX,zyoogame.com

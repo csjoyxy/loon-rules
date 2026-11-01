@@ -1,6 +1,6 @@
 # NAME: DustinWin telegramip
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/telegramip.list
-# UPDATED: 2026-10-31 23:38 UTC
+# UPDATED: 2026-11-01 23:49 UTC
 # TOTAL: 12
 IP-CIDR,149.154.160.0/20
 IP-CIDR,185.76.151.0/24
