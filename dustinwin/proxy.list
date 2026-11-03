@@ -1,6 +1,6 @@
 # NAME: DustinWin proxy
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-# UPDATED: 2026-11-01 23:49 UTC
+# UPDATED: 2026-11-03 02:36 UTC
 # TOTAL: 26619
 DOMAIN-SUFFIX,1password.drift.click
 DOMAIN-SUFFIX,a4e8s8k3.map2.ssl.hwcdn.net
