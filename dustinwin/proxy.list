@@ -1,7 +1,7 @@
 # NAME: DustinWin proxy
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-# UPDATED: 2026-11-07 00:15 UTC
-# TOTAL: 26626
+# UPDATED: 2026-11-07 23:53 UTC
+# TOTAL: 26628
 DOMAIN-SUFFIX,1password.drift.click
 DOMAIN-SUFFIX,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,adobeereg.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,gog-cdn-lumen.secure2.footprint.net
 DOMAIN-SUFFIX,hb4bbbbb.pmhcjk.com
 DOMAIN-SUFFIX,holoxx.f5.si
 DOMAIN-SUFFIX,hpstore.corpmerchandise.com
+DOMAIN-SUFFIX,http-intake.logs.us5.datadoghq.com
 DOMAIN-SUFFIX,hub.slarker.me
 DOMAIN-SUFFIX,i.jeded.com
 DOMAIN-SUFFIX,imperial.insendi.com
@@ -10732,6 +10733,7 @@ DOMAIN-SUFFIX,greginhollywood.com
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,groq.com
