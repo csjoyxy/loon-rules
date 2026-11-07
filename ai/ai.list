@@ -1,7 +1,7 @@
 # NAME: AI platforms (v2fly category-ai-!cn + ACL4SSR AI)
 # SOURCE: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ai-!cn , https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AI.list
-# UPDATED: 2026-11-07 00:09 UTC
-# TOTAL: 227 (suffix 189 / domain 35 / keyword 3 / regexp skipped 1)
+# UPDATED: 2026-11-07 23:41 UTC
+# TOTAL: 231 (suffix 190 / domain 38 / keyword 3 / regexp skipped 1)
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,ai.studio
@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,h2o.ai
@@ -211,8 +212,10 @@ DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
+DOMAIN,http-intake.logs.us5.datadoghq.com @telemetry
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
+DOMAIN,o1158394.ingest.us.sentry.io @telemetry
 DOMAIN,o33249.ingest.sentry.io @ads @telemetry
 DOMAIN,o33249.ingest.us.sentry.io @ads @telemetry
 DOMAIN,openai.qualtrics.com @ads
@@ -222,6 +225,7 @@ DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN,pplx-res.cloudinary.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,sydney.bing.com
