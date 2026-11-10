@@ -1,7 +1,7 @@
 # NAME: DustinWin proxy
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-# UPDATED: 2026-11-08 23:57 UTC
-# TOTAL: 26628
+# UPDATED: 2026-11-10 02:53 UTC
+# TOTAL: 26630
 DOMAIN-SUFFIX,1password.drift.click
 DOMAIN-SUFFIX,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,adobeereg.com
@@ -10680,6 +10680,8 @@ DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,grabhentai.com
 DOMAIN-SUFFIX,grabpussy.com
 DOMAIN-SUFFIX,gradeuptube.com
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
 DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,graias.com
 DOMAIN-SUFFIX,graiasmovies.com

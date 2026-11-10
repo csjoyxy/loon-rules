@@ -1,7 +1,7 @@
 # NAME: DustinWin networktest
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/networktest.list
-# UPDATED: 2026-11-08 23:57 UTC
-# TOTAL: 1937
+# UPDATED: 2026-11-10 02:53 UTC
+# TOTAL: 1938
 DOMAIN-SUFFIX,2ip.kamensky-lab.ru
 DOMAIN-SUFFIX,2ip.telecom24.link
 DOMAIN-SUFFIX,am.i.mullvad.net
@@ -1088,6 +1088,7 @@ DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,measurement-lab.org
 DOMAIN-SUFFIX,measurementlab.net
 DOMAIN-SUFFIX,medidor-de-velocidad.movistar.com.ar
+DOMAIN-SUFFIX,megabitus.com
 DOMAIN-SUFFIX,meineipadresse.at
 DOMAIN-SUFFIX,meineipadresse.de
 DOMAIN-SUFFIX,meip.co
