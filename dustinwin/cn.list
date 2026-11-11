@@ -1,7 +1,7 @@
 # NAME: DustinWin cn
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
-# UPDATED: 2026-11-10 02:53 UTC
-# TOTAL: 109624
+# UPDATED: 2026-11-11 00:50 UTC
+# TOTAL: 109625
 DOMAIN-SUFFIX,api.blipsandchitz.me
 DOMAIN-SUFFIX,end-api.shallow.ink
 DOMAIN-SUFFIX,end.shallow.ink
@@ -67069,6 +67069,7 @@ DOMAIN-SUFFIX,nhzj.com
 DOMAIN-SUFFIX,nhzs.com
 DOMAIN-SUFFIX,ni8.com
 DOMAIN-SUFFIX,ni93.com
+DOMAIN-SUFFIX,nia-teams.com
 DOMAIN-SUFFIX,nianchu.net
 DOMAIN-SUFFIX,nianhuawan.com
 DOMAIN-SUFFIX,niankawang.com

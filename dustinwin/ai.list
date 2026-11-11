@@ -1,6 +1,6 @@
 # NAME: DustinWin ai
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/ai.list
-# UPDATED: 2026-11-10 02:53 UTC
+# UPDATED: 2026-11-11 00:50 UTC
 # TOTAL: 223
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
