@@ -1,6 +1,6 @@
 # NAME: DustinWin microsoft-cn
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/microsoft-cn.list
-# UPDATED: 2026-11-11 00:50 UTC
+# UPDATED: 2026-11-12 01:59 UTC
 # TOTAL: 189
 DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
 DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com
