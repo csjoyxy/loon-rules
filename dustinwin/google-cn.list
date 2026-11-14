@@ -1,6 +1,6 @@
 # NAME: DustinWin google-cn
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/google-cn.list
-# UPDATED: 2026-11-13 01:26 UTC
+# UPDATED: 2026-11-14 00:59 UTC
 # TOTAL: 137
 DOMAIN-SUFFIX,alt1-mtalk.google.com
 DOMAIN-SUFFIX,alt2-mtalk.google.com
