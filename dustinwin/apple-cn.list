@@ -1,12 +1,13 @@
 # NAME: DustinWin apple-cn
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/apple-cn.list
-# UPDATED: 2026-11-15 00:10 UTC
-# TOTAL: 246
+# UPDATED: 2026-11-16 00:18 UTC
+# TOTAL: 248
 DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,cdn-cn.apple-mapkit.com
 DOMAIN-SUFFIX,certs-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,cl2-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,communities.apple.com
+DOMAIN-SUFFIX,configuration.ls.apple.com
 DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,discussionschinese.apple.com
 DOMAIN-SUFFIX,fides-pol.apple.com
@@ -74,6 +75,7 @@ DOMAIN-SUFFIX,beats4.cn
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beatsbydre.com.cn
 DOMAIN-SUFFIX,beatsep.cn
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,cdn-cn1.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn2.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn3.apple-mapkit.com
