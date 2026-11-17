@@ -1,7 +1,7 @@
 # NAME: DustinWin proxy
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-# UPDATED: 2026-11-16 00:18 UTC
-# TOTAL: 26636
+# UPDATED: 2026-11-17 03:05 UTC
+# TOTAL: 26638
 DOMAIN-SUFFIX,1password.drift.click
 DOMAIN-SUFFIX,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,adobeereg.com
@@ -6308,6 +6308,7 @@ DOMAIN-SUFFIX,cybertrust.co.jp
 DOMAIN-SUFFIX,cybertrust.ne.jp
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cylink.pro
@@ -26039,6 +26040,7 @@ DOMAIN-SUFFIX,yavtube.com
 DOMAIN-SUFFIX,yaya.cyou
 DOMAIN-SUFFIX,yayadizhi.xyz
 DOMAIN-SUFFIX,yazhouse8.com
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,yclients.com
 DOMAIN-SUFFIX,ycombinator.com
