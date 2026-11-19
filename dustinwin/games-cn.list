@@ -1,7 +1,7 @@
 # NAME: DustinWin games-cn
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/games-cn.list
-# UPDATED: 2026-11-18 02:33 UTC
-# TOTAL: 258
+# UPDATED: 2026-11-19 01:58 UTC
+# TOTAL: 260
 DOMAIN-SUFFIX,assets1.xboxlive.cn
 DOMAIN-SUFFIX,assets2.xboxlive.cn
 DOMAIN-SUFFIX,blzdist-d3.necdn.leihuo.netease.com
@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,1y.com
+DOMAIN-SUFFIX,1ycdn.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
 DOMAIN-SUFFIX,37.com
