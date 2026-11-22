@@ -1,7 +1,7 @@
 # NAME: AI platforms (v2fly category-ai-!cn + ACL4SSR AI)
 # SOURCE: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ai-!cn , https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AI.list
-# UPDATED: 2026-11-21 01:36 UTC
-# TOTAL: 232 (suffix 191 / domain 38 / keyword 3 / regexp skipped 1)
+# UPDATED: 2026-11-22 00:29 UTC
+# TOTAL: 233 (suffix 191 / domain 38 / keyword 4 / regexp skipped 1)
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,ai.studio
@@ -232,5 +232,6 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,sydney.bing.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,antigravity
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
