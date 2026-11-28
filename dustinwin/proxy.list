@@ -1,13 +1,14 @@
 # NAME: DustinWin proxy
 # SOURCE: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-# UPDATED: 2026-11-27 03:11 UTC
-# TOTAL: 26567
+# UPDATED: 2026-11-28 02:55 UTC
+# TOTAL: 26572
 DOMAIN-SUFFIX,1password.drift.click
 DOMAIN-SUFFIX,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,adobeereg.com
 DOMAIN-SUFFIX,agb9r0ad.qllfkl.com
 DOMAIN-SUFFIX,angle.com.tw
 DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,aurora-customization-usw2.lithium.com
 DOMAIN-SUFFIX,bbs.boingboing.net
 DOMAIN-SUFFIX,beck-online.beck.de
 DOMAIN-SUFFIX,blizzard.nefficient.co.kr
@@ -1162,6 +1163,7 @@ DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,aicu.cc
 DOMAIN-SUFFIX,aidc.com.tw
 DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aimei133.com
@@ -6353,6 +6355,7 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danke4china.net
+DOMAIN-SUFFIX,danmakus.com
 DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
 DOMAIN-SUFFIX,danskpornofilm.com
 DOMAIN-SUFFIX,dansmovies.com
@@ -8810,6 +8813,7 @@ DOMAIN-SUFFIX,fc2cn.com
 DOMAIN-SUFFIX,fc2ppv.tv
 DOMAIN-SUFFIX,fcacebook.com
 DOMAIN-SUFFIX,fcaebook.com
+DOMAIN-SUFFIX,fce.gg
 DOMAIN-SUFFIX,fcebook.com
 DOMAIN-SUFFIX,fcebookk.com
 DOMAIN-SUFFIX,fcfacebook.com
@@ -21261,6 +21265,7 @@ DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
 DOMAIN-SUFFIX,sp.cool
 DOMAIN-SUFFIX,spacebattles.com
+DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spacely.com.au
